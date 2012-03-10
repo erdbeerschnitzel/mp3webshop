@@ -1,0 +1,35 @@
+#detailhead {
+	position:relative;
+	margin:0px;
+	border:0px solid white;
+	padding:0px;
+	width:98%;
+	height:25px;
+}
+
+#detailinfo {
+	position:relative;
+	margin:0px;
+	border:0px solid white;
+	float:left;
+	padding:0px;
+	width:30%;
+	height:80%;
+}
+
+#detailtracks {
+	position:relative;
+	margin:0px;
+	border:0px solid white;
+	float:left;
+	padding:0px;
+	width:68%;
+	height:80%;
+}
+
+
+ 
+
+tr.hove:hover {
+ background-color: silver;
+} 

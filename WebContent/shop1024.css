@@ -1,0 +1,33 @@
+
+#shopheader {
+	position:relative;
+	margin:0px;
+	border:0px solid white;
+	padding:1px;
+	width:97%;
+	height:65px;
+}
+
+
+#shopcontent {
+    width: 97%;
+    height: 80%;
+    float: left;
+    margin: 1px;
+	position:relative; 
+	border: 0px solid white;
+	padding: 0px;
+	max-height:480px;
+}
+
+
+tr.hove:hover {
+ background-color: silver;
+} 
+
+.scrollbar {
+overflow: auto;
+width: 99%;
+height: 100%;
+max-height:480px;
+}

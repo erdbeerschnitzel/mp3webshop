@@ -1,0 +1,25 @@
+div {
+	margin:0;
+}
+
+.ro {
+	background:url(images/rechtsobenklein.png) top right no-repeat;
+}
+
+.lo {
+	background:url(images/linksobenklein.png) top left no-repeat;
+}
+
+.ru {
+	background:url(images/rechtsuntenklein.png) bottom right no-repeat;
+}
+
+.lu {
+	background:url(images/linksuntenklein.png) bottom left no-repeat;
+}
+
+.inhalt {
+	margin:0;
+	padding:0.5em 0.5em 0.5em 0.5em;
+	max-height:650px;
+}

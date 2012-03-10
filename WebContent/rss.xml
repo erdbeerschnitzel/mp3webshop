@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+
+<title>RSS Feed</title>
+<link>http://unwichtich.doesntexist.com:8080/test/rss.xml</link> 
+<description>mp3dealer.de RSS Channel</description>
+<language>de</language>
+
+<image>
+<title>FHB Logo</title>
+<url>http://www.fh-brandenburg.de/fileadmin/fhb/images/fhb_logo.gif</url>
+<link>http://unwichtich.doesntexist.com:8080/test/action?do=rss</link>
+</image> 
+
+<item>
+<title>Neue Musik</title>
+<dc:date>2008-10-10T19:14:55+01:00</dc:date>
+<description></description>
+<link>http://unwichtich.doesntexist.com:8080/test/action?do=rss&amp;id=1</link>
+</item>
+
+<item>
+<title>kleines Hörbeispiel</title>
+<dc:date>2008-10-10T21:58:24+01:00</dc:date>
+<description></description>
+<link>http://unwichtich.doesntexist.com:8080/test/action?do=rss&amp;id=2</link>
+</item>
+
+</channel>
+</rss>
