@@ -15,9 +15,10 @@ import javax.servlet.http.HttpSession;
  * @author diesel
  *
  */
-@SuppressWarnings("unchecked")
 public abstract class HttpServletControllerBase extends HttpServlet
 {
+
+	private static final long serialVersionUID = 449784229878654344L;
 	
 	protected HashMap actions;
 	HttpSession session;
