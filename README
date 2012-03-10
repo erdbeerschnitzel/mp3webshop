@@ -7,3 +7,9 @@ needs mysql db
 
 
 currently needs context-path test set in tomcat-config to work
+
+
+TODO: 
+
+- no static urls
+- use config xml files
